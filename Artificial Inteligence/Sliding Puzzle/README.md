@@ -1,4 +1,5 @@
 <p align="center"; font-size: 75;>
+  font-size: 75;
   Sliding Puzzle
 </p>
 
