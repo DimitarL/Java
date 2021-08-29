@@ -1,9 +1,4 @@
-@settings {
-  font-size: 100;
-}
-<p align="center"; font-size: 75;>
-  font-size: 75;
-  #Sliding Puzzle
-</p>
+#Sliding Puzzle
+
 
 Assignments for individual work given in the course "Artificial Intelligence" at the Faculty of Mathematics and Informatics of Sofia University bla
