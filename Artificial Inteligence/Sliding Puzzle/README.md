@@ -1,4 +1,6 @@
+<p align="center">
 # Sliding Puzzle
+<p align="center">
 # How do I change font size?
 
 
